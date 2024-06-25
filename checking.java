@@ -1,3 +1,10 @@
+/*****************************
+
+Question:
+To check the value present in list or not.
+
+*****************************/
+
 import java.util.*;
 public class checking {
     public static void main(String[] args) {
@@ -9,10 +16,15 @@ public class checking {
         tech.add("C++");
         //checking the value
         if(tech.contains("JAVA")|| tech.contains("Python")){
-            System.out.println("These technical language are Present");
+            System.out.println("These technical language are Present.");
         }else{
-            System.out.println("Language not present ");
+            System.out.println("Language not present.");
         }
         
     }
 }
+
+/*****************************
+OUTPUT:
+These technical language are Present.
+*****************************/

@@ -1,3 +1,8 @@
+/**************
+Question:
+To reverse the List.
+**************/
+
 import java.util.*;
 public class reverse {
     public static void main(String[] args) {
@@ -11,3 +16,11 @@ public class reverse {
     System.out.println("List after Reversed : "+number.reversed());
 }
 }
+
+/**********************
+OUTPUT:
+
+List before Reversing : [1, 2, 3, 4, 5]
+List after Reversed : [5, 4, 3, 2, 1]
+
+*********************/    

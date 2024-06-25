@@ -1,3 +1,11 @@
+/*********************
+Question:
+
+To find the minimum value in the array.
+
+*****************/
+
+
 import java.util.*;
 public class minimum {
     public static void main(String[] args) {
@@ -22,4 +30,13 @@ public class minimum {
     }
     
 }
+
+/****************************
+OUTPUT:
+
+5
+1 2 5 7 3
+Minimum in array is : 1
+
+***************************/
 

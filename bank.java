@@ -14,9 +14,9 @@ public class bank {
         need.add("CBIL");
         //checking values in list
         if(need.contains("Aadhar")&& need.contains("CBIL")){
-            System.out.println("U'r Eligible");
+            System.out.println("U'r Eligible for applying Loan.");
         }else{
-            System.out.println("U'r not Eligible");
+            System.out.println("U'r not Eligible for applying Loan.");
         }
     }
     
@@ -25,7 +25,7 @@ public class bank {
 
 /************************************
 OUTPUT:
-U'r Eligible
-****************************/
+U'r Eligible for applying Loan.
+***********************************/
 
 

@@ -1,3 +1,9 @@
+/************
+Question:
+
+Functions of Linkedlist.
+
+***********/
 import java.util.*;
 public class linkedlist {
     public static void main(String[]args){
@@ -36,3 +42,24 @@ public class linkedlist {
 
     }
 }
+
+/*****************
+OUTPUT:
+
+
+Mobiles in list : [Poco, Redmi, Samsung, Nothing, Vivo]
+New list : [Oppo, Poco, Redmi, Samsung, Nothing, Vivo]
+Second New list : [Oppo, Poco, Redmi, Samsung, Nothing, Vivo, Realme]
+The first mobile in list : Oppo
+The last mobile in list is : Realme
+The mobile at index 2 in list : Redmi
+List after removed Nothing phone : [Oppo, Poco, Redmi, Samsung, Vivo, Realme]
+List after removed 2nd index mobile : [Oppo, Poco, Samsung, Vivo, Realme]
+Setting the value in list : [Oppo, Poco, Nothing, Vivo, Realme]
+The size of the list is : 5
+The list after clearing the data : []
+The size of the list after deleting the data in list : 0
+
+
+
+ ****************/

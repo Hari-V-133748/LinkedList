@@ -1,3 +1,10 @@
+/****************
+Question:
+
+To check the person is he/she eligible for the loan in bank.
+
+*****************/
+
 import java.util.*;
 public class bank {
     public static void main(String[]args){
@@ -14,5 +21,11 @@ public class bank {
     }
     
 }
+
+
+/************************************
+OUTPUT:
+U'r Eligible
+****************************/
 
 

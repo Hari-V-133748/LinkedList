@@ -1,3 +1,11 @@
+/*******************
+Qutions:
+
+Count the number of digit in a number.
+
+**********************/
+
+
 import java.util.*;
 public class count {
     public static void main(String[]args){
@@ -15,3 +23,11 @@ public class count {
         System.out.println("The number of digits in "+x+" is : "+c);
     }
 }
+
+/***********************
+OUTPUT:
+
+Enter the value : 12345
+The number of digits in 12345 is : 5
+
+ ************************/
